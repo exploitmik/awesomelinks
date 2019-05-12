@@ -6,6 +6,7 @@
 	* [CssReference - A free visual guide to CSS](https://cssreference.io)
 	* [Introduction ES6](http://devguides.io/es2015)
 	* [FrontEnd Technologies](https://uptodate.frontendrescue.org)
+	* [Conceitos de Código Limpo adaptados em JavaScript (Tradução PT-BR)](https://github.com/felipe-augusto/clean-code-javascript)
 
 - Cursos
 	* [Scrimba](https://scrimba.com)
