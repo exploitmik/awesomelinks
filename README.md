@@ -29,6 +29,8 @@
 	* [Dados aleatórios - Posts interessantes](https://www.dadosaleatorios.com.br/post)
 
 - eBooks Online
+	* [Tradução de parte do livro "Learning JavaScript Design Patterns" por Addy Osmany](https://github.com/fhferreira/aprendendo-padroes-de-projeto-javascript)
+	* [Learning JavaScript Design Patterns - by Addy Osmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book)
 	* [Computational Physics With Python](http://www.fizika.unios.hr/rf/wp-content/uploads/sites/67/2011/02/CPwP.pdf)
 	* [Python for Scientists and Engineers](https://www.pythonforengineers.com/python-for-scientists-and-engineers)
 	* [You Don't Know JS - pt-BR](https://github.com/cezaraugusto/You-Dont-Know-JS)
