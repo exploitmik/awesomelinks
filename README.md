@@ -28,6 +28,7 @@
 	* [Dados aleatórios - Posts interessantes](https://www.dadosaleatorios.com.br/post)
 
 - eBooks Online
+	* [Computational Physics With Python](http://www.fizika.unios.hr/rf/wp-content/uploads/sites/67/2011/02/CPwP.pdf)
 	* [Python for Scientists and Engineers](https://www.pythonforengineers.com/python-for-scientists-and-engineers)
 	* [You Don't Know JS - pt-BR](https://github.com/cezaraugusto/You-Dont-Know-JS)
 	* [The JavaScript Handbook](https://drive.google.com/drive/folders/1B-eWVHXw6roKhQWpRkiNNwHtb-66Gzif)
