@@ -28,6 +28,7 @@
 	* [Dados aleatórios - Posts interessantes](https://www.dadosaleatorios.com.br/post)
 
 - eBooks Online
+	* [Python for Scientists and Engineers](https://www.pythonforengineers.com/python-for-scientists-and-engineers)
 	* [You Don't Know JS - pt-BR](https://github.com/cezaraugusto/You-Dont-Know-JS)
 	* [The JavaScript Handbook](https://drive.google.com/drive/folders/1B-eWVHXw6roKhQWpRkiNNwHtb-66Gzif)
 	* [The Nodejs Handbook](https://drive.google.com/drive/folders/1EC4Id7Z6dbCHNw2jr1T4VHiQlSvJIP7I)
