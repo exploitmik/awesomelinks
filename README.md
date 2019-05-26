@@ -64,6 +64,7 @@
 	* [DevFreeEbooks](https://devfreebooks.github.io)
 
 - Conteúdo disponibilizado por Universidades e Professores
+	* [Notes on Data Structures and Programming Techniques](http://www.cs.yale.edu/homes/aspnes/classes/223/notes.html)
 	* [Edmilson Campos - Engenharia de Software](https://edmilsoncampos.net/disciplinas/ofertas-atuais/engenharia-de-software)
 	* [Princípios de desenvolvimento de Algoritmos, Introdução à Programação, Estruturas de Dados](https://www.ime.usp.br/~leo/material_didatico.html)
 	* [Livros de Computação disponibilizados pela UFPB](http://producao.virtual.ufpb.br/books)
