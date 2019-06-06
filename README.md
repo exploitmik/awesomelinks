@@ -7,10 +7,21 @@
 	* [Introduction ES6](http://devguides.io/es2015)
 	* [FrontEnd Technologies](https://uptodate.frontendrescue.org)
 	* [Conceitos de Código Limpo adaptados em JavaScript (Tradução PT-BR)](https://github.com/felipe-augusto/clean-code-javascript)
+	* [Aprenda Layout com CSS](https://pt-br.learnlayout.com)
+	* [WebPlatform.org - HTML, CSS, JAVASCRIPT](https://webplatform.github.io/docs/Beginners)
+	* [Tutorial GIT - pt-BR](http://rogerdudler.github.io/git-guide/index.pt_BR.html)
+	* [The Modern Javascript Tutorial - detailed explanations](https://javascript.info)
+	* [30 days of NodeJs](https://www.nodejsera.com/30-days-of-node.html)
+	* [Data-flair - Tutorials SQL, MongoDB, Java, Python...](https://data-flair.training/blogs)
+	* [Tutorials Javascript em espanhol](http://www.codexexempla.org/curso/curso_1_1.php)
+	* [C, C++, and Java programming tutorials and programs](https://www.programmingsimplified.com)
+	* [Google Developers - JavaScript Start-up Optmization](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/javascript-startup-optimization)
+	* [Girl Develop It - HTML, CSS, JAVASCRIPT, ANGULAR, PHP/MYSQL, GIT, ACCESSIBILITY](https://www.girldevelopit.com/materials)
 
 - Cursos
 	* [Scrimba](https://scrimba.com)
 	* [Egghead.io - Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
+	* [Bitdegree - Curso JavaScript para iniciantes - EN](https://www.bitdegree.org/learn/javascript-for-beginners)
 
 - Blogs
 	* [Flávio Copes - JavaScript](https://flaviocopes.com)
@@ -62,6 +73,7 @@
 	* [Free Programming eBooks](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
 	* [Free Programming eBooks pt-BR](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-pt_BR.md)
 	* [DevFreeEbooks](https://devfreebooks.github.io)
+	* [5 Awesome Free Books for JavaScript Developers](https://blog.jscrambler.com/5-awesome-free-ebooks-for-javascript-developers)
 
 - Conteúdo disponibilizado por Universidades e Professores
 	* [Notes on Data Structures and Programming Techniques](http://www.cs.yale.edu/homes/aspnes/classes/223/notes.html)
@@ -77,29 +89,14 @@
 	* [Conteúdo de Cursos Técnicos - IFAP](http://ead.ifap.edu.br/netsys/public/livros)
 	* [Programação Funcional, Procedimental, Algoritmos e Proj. Desenvolvimento de Software](http://www.facom.ufu.br/~madriana)
 
-
-[5 Awesome Free Books for JavaScript Developers](https://blog.jscrambler.com/5-awesome-free-ebooks-for-javascript-developers)
-
-* [Google Developers - JavaScript Start-up Optmization](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/javascript-startup-optimization)
-
-* [Girl Develop It - Materials in slides](https://www.girldevelopit.com/materials)
-
-* [30 days of NodeJs](https://www.nodejsera.com/30-days-of-node.html)
-
-* [The Modern Javascript Tutorial - detailed explanations](https://javascript.info)
-
-* [Tutorial GIT - pt-BR](http://rogerdudler.github.io/git-guide/index.pt_BR.html)
-
 * [Computer Programming Algorithms Directory](http://www.algosort.com)
 
 * [Exercícios resolvidos em Python](http://www.galirows.com.br/meublog/programacao/exercicios-resolvidos-python)
 
 * [How to Design Classes, de Felleisen](http://www.ccs.neu.edu/home/matthias/HtDC/htdc.pdf)
 
-* [C, C++, and Java programming tutorials and programs](https://www.programmingsimplified.com)
 
-* [Data-flair - Tutorials SQL, MongoDB, Java, Python...](https://data-flair.training/blogs)
 
-* [Bitdegree - Curso JavaScript para iniciantes - en](https://www.bitdegree.org/learn/javascript-for-beginners)
 
-* [Tutorials Javascript em espanhol](http://www.codexexempla.org/curso/curso_1_1.php)
+
+
