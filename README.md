@@ -40,6 +40,7 @@
 	* [Dados aleatórios - Posts interessantes](https://www.dadosaleatorios.com.br/post)
 
 - eBooks Online
+	* [eBooks O'Reilly](https://docstore.mik.ua/orelly/bookshelfs.html)
 	* [Java - Wikibook](https://pt.wikibooks.org/wiki/Java/Imprimir)
 	* [Python - Django Book - pt-BR](https://github.com/erichideki/djangobook)
 	* [Tradução de parte do livro "Learning JavaScript Design Patterns" por Addy Osmany](https://github.com/fhferreira/aprendendo-padroes-de-projeto-javascript)
