@@ -76,6 +76,7 @@
 	* [5 Awesome Free Books for JavaScript Developers](https://blog.jscrambler.com/5-awesome-free-ebooks-for-javascript-developers)
 
 - Conteúdo disponibilizado por Universidades e Professores
+	* [Gerenc Proj Software, Desen Soft Internet, Prog Orient a Objetos II, Top Esp Prog Orient Objetos, Proj Sist Orient Objetos](http://turma-ads2015.blogspot.com)
 	* [Notes on Data Structures and Programming Techniques](http://www.cs.yale.edu/homes/aspnes/classes/223/notes.html)
 	* [Edmilson Campos - Engenharia de Software](https://edmilsoncampos.net/disciplinas/ofertas-atuais/engenharia-de-software)
 	* [Princípios de desenvolvimento de Algoritmos, Introdução à Programação, Estruturas de Dados](https://www.ime.usp.br/~leo/material_didatico.html)
