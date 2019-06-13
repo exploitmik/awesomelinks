@@ -40,7 +40,7 @@
 	* [Dados aleatórios - Posts interessantes](https://www.dadosaleatorios.com.br/post)
 
 - eBooks Online
-	* [Automate the Boring Stuff with Python](https://automatetheboringstuff.com)
+	* [Automate, Cracking Codes, Games in Python](http://inventwithpython.com/)
 	* [eBooks O'Reilly](https://docstore.mik.ua/orelly/bookshelfs.html)
 	* [Java - Wikibook](https://pt.wikibooks.org/wiki/Java/Imprimir)
 	* [Python - Django Book - pt-BR](https://github.com/erichideki/djangobook)
