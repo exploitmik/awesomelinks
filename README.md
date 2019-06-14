@@ -40,6 +40,7 @@
 	* [Dados aleatórios - Posts interessantes](https://www.dadosaleatorios.com.br/post)
 
 - eBooks Online
+	* [JavaScript: Best Practice](https://www.sitepoint.com/premium/books/javascript-best-practice)
 	* [Automate, Cracking Codes, Games in Python](http://inventwithpython.com/)
 	* [eBooks O'Reilly](https://docstore.mik.ua/orelly/bookshelfs.html)
 	* [Java - Wikibook](https://pt.wikibooks.org/wiki/Java/Imprimir)
