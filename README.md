@@ -1,5 +1,8 @@
 # Links úteis
 
+- Indicação de artigos
+	* [Everything You Need to Know About the CSS will-change Property](https://dev.opera.com/articles/css-will-change-property)
+
 - Ferramentas e Tutoriais
 	* [HTMLReference](https://htmlreference.io)
 	* [MarkSheet - A free HTML e CSS tutorial](https://marksheet.io)
