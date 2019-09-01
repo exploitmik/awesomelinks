@@ -27,6 +27,7 @@
 	* [Bitdegree - Curso JavaScript para iniciantes - EN](https://www.bitdegree.org/learn/javascript-for-beginners)
 
 - Blogs
+	* [PHILIP WALTON](https://philipwalton.com/articles)
 	* [Flávio Copes - JavaScript](https://flaviocopes.com)
 	* [CodeHeaven](http://codeheaven.io)
 	* [Web.dev - Google Platform for Web Developers](https://web.dev)
